@@ -9,7 +9,7 @@
         },
         "WSPATH": {
             "description": "WebSocket Path",
-            "value": "/"
+            "value": "https://hangv2ray.herokuapp.com/"
         }
     },
     "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
